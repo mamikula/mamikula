@@ -55,7 +55,7 @@ I am Second year student of Computer Science at the AGH University of Science an
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/mamikula)   -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mamikula)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mamikula)   -->
 
 ![Profile views](https://gpvc.arturio.dev/mamikula)  
 
