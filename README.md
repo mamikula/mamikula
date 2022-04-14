@@ -5,7 +5,7 @@ I am Second year student of Computer Science at the AGH University of Science an
 <h4> Languages and technologies I worked with </h4>
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank">
+<!--   <a href="https://www.cprogramming.com/" target="_blank"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
   </a> 
    <a href="https://www.w3.org/html/" target="_blank"> 
