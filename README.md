@@ -51,7 +51,10 @@ I am Second year student of Computer Science at the AGH University of Science an
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mamikula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100001875384119)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/marcin-mikuła)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamikula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamikula)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="#choose-pinned-repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlgs&theme=onedark&langs_count=7&hide_title=true&hide=cmake,python" />
+</a>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/mamikula)   -->
 
