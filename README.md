@@ -53,7 +53,7 @@ I am Second year student of Computer Science at the AGH University of Science an
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamikula)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="#choose-pinned-repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlgs&theme=onedark&langs_count=7&hide_title=true&hide=cmake,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamikula&theme=onedark&langs_count=7&hide_title=true&hide=cmake,python" />
 </a>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/mamikula)   -->
