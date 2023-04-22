@@ -53,11 +53,9 @@ I am Third year student of Computer Science at the AGH University of Science and
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamikula)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- <a href="#choose-pinned-repositories">
+<a href="#choose-pinned-repositories">
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mamikula&langs_count=7&title_color=fff&icon_color=000&bg_color=60,0b3866,07f49e&hide_border=true&text_color=111&border_radius=5&count_private=true" />
-</a><br> -->
+</a>
 
-[![Marcin Mikuła's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mamikula&hide=jupyter%20notebook,python&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamikula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
