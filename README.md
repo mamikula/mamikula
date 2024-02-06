@@ -1,16 +1,36 @@
-# Hi there 👋, my name is Marcin Mikuła
-I am Third year student of Computer Science at the AGH University of Science and Technology.
-
-
-## Languages and technologies I worked with
+<h1 align="center" > Hi there 👋, my name is Marcin Mikuła </h1>
+<p align="center" > Engineer, fourth-year Computer Science student at AGH University of Science and Technology </p>
+<h2 align="center"> Languages and technologies I worked with </h2>
 
 <p align="left"> 
   <a href="www.java.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
   </a> 
+
+   <a  target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" width="40" height="40"/>
+  </a> 
+
+   <a  target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  </a> 
+
+   <a target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
+  </a> 
+
+   <a target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  </a> 
+
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40"/>
+  </a> 
+  
    <a href="https://angular.io/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
   </a> 
+
   <a href="https://html.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40"/> 
   </a> 
@@ -29,9 +49,7 @@ I am Third year student of Computer Science at the AGH University of Science and
   <a href="https://www.haskell.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" width="40" height="40"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40"/>
-  </a> 
+
   <a href="https://www.r-project.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/> 
   </a> 
