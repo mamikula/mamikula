@@ -4,8 +4,10 @@
 <h2 align="center">👨 About me:</h2>
 
  - 👨‍🎓 **Bachelor's degree** (Engineering) **graduate** in **Computer Science** from the **Faculty of Computer Science** at the **AGH University of Science and Technology**
- 
- - 👨‍💻 **Software Engineer** at **Comarch** with **1.5 years** of working experience (from 07.2022 to 01.2024)
+   
+ - 👨‍💻 **Software Engineer** at **Samsung** from 06.2024
+   
+ - 💻 **Software Engineer** at **Comarch** with **1.5 years** of working experience (from 07.2022 to 01.2024)
 
  - ⏲️ In my free time I watch **movies** 🎥 and do **workouts** at the gym 🏋️‍♂️
 
